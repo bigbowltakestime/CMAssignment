@@ -1,5 +1,6 @@
 ## HOW TO START
 
+You can install node_modules first:
 ### `npm install`
 In the project directory, you can run:
 
